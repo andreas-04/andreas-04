@@ -1,16 +1,41 @@
-### Hi there 👋
+##👋 Hi! My name is Andreas Neacsu##
 
-<!--
-**andreas-04/andreas-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Software engineer, currently studying at Palmer Highschool.
 
-Here are some ideas to get you started:
+As someone who strive for growth, my goal is to build quality applications and services that are sustainable, highly functional and friendly to users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently looking for an SWE internship opportunities and building up my resume with different projects, all while learning as much as I can.
+
+
+🛠 Skills
+  🖼 Front-end
+
+    Javascript
+    Bootstrap
+    HTML5 & CSS3
+
+  🧰 Back-end
+```
+    Django
+    Python
+    Firebase
+```
+  🗒 Others
+
+    Git
+    
+    
+
+☎️ Contact Information
+
+    Email: andreasneacsu@gmail.com
+    LinkedIn: https://www.linkedin.com/in/andreas-neacsu-051a281b4/
+    Discord: Andreas.#9711
+
+📕 I’m currently learning ...
+   ```
+   Flask
+   React native
+   Vue.js
+   Java
+   ```
