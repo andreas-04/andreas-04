@@ -2,7 +2,7 @@
 
 I am an aspiring Software engineer, currently studying at Palmer Highschool.
 
-As someone who strive for growth, my goal is to build quality applications and services that are sustainable, highly functional and friendly to users.
+As someone who strives for growth, my goal is to build quality applications and services that are sustainable, highly functional and friendly to users.
 
 I am currently looking for an SWE internship opportunities and building up my resume with different projects, all while learning as much as I can.
 
