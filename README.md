@@ -1,4 +1,4 @@
-## 👋 Hi! My name is Andreas Neacsu ##
+# 👋 Hi! My name is Andreas Neacsu #
 
 I am an aspiring Software engineer, currently studying at Palmer Highschool.
 
@@ -7,21 +7,21 @@ As someone who strives for growth, my goal is to build quality applications and 
 I am currently looking for an SWE internship opportunities and building up my resume with different projects, all while learning as much as I can.
 
 
-🛠 Skills  
+## 🛠 Skills  
 
-  🖼 Front-end
+   🖼 Front-end
 
     Javascript
     Bootstrap
     HTML5 & CSS3
 
-  🧰 Back-end
-```
+   🧰 Back-end
+  ```
     Django
     Python
     Firebase
 ```
-  🗒 Others
+   🗒 Others
 
     Git
     
