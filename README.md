@@ -1,4 +1,4 @@
-##👋 Hi! My name is Andreas Neacsu##
+## 👋 Hi! My name is Andreas Neacsu ##
 
 I am an aspiring Software engineer, currently studying at Palmer Highschool.
 
