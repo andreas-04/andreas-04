@@ -7,7 +7,8 @@ As someone who strive for growth, my goal is to build quality applications and s
 I am currently looking for an SWE internship opportunities and building up my resume with different projects, all while learning as much as I can.
 
 
-🛠 Skills
+🛠 Skills  
+
   🖼 Front-end
 
     Javascript
