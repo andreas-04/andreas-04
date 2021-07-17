@@ -35,8 +35,7 @@ I am currently looking for an SWE internship opportunities and building up my re
 
 📕 I’m currently learning ...
    ```
-   Flask
+   C++
    React native
-   Vue.js
    Java
    ```
