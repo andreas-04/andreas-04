@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Andreas Neacsu #
 
-I am an aspiring Software engineer, currently studying at Palmer Highschool.
+I am an aspiring Software engineer, currently studying at The University of Idaho.
 
 As someone who strives for growth, my goal is to build quality applications and services that are sustainable, highly functional and friendly to users.
 
