@@ -18,12 +18,16 @@ I am currently looking for an SWE internship opportunities and building up my re
    🧰 Back-end
   ```
     Django
-    Python
+    Flask
     Firebase
 ```
    🗒 Others
 
+    Python
+    c++
+    Java
     Git
+    
     
     
 
@@ -35,7 +39,7 @@ I am currently looking for an SWE internship opportunities and building up my re
 
 📕 I’m currently learning ...
    ```
-   C++
    React native
-   Java
+   Lua 
+   Rust
    ```
