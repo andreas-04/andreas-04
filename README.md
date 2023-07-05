@@ -8,16 +8,14 @@ I am currently looking for an SWE internship opportunity and building up my resu
 
 
 ## 🛠 Skills  
-
-    HTML5 & CSS3
-  ```
-    Django
-    Flask
-  ```
+```
     Python
     c++
     Git
-
+    Django
+    Flask
+    HTML5 & CSS3
+```
 ☎️ Contact Information
 
     Email: andreasneacsu@gmail.com
