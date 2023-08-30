@@ -10,7 +10,7 @@ I am currently looking for an SWE internship opportunity and building up my resu
 ## 🛠 Skills  
 ```
     Python
-    c++
+    C++
     Git
     Django
     Flask
@@ -24,7 +24,7 @@ I am currently looking for an SWE internship opportunity and building up my resu
 
 📕 I’m currently learning ...
    ```
-   React Native
+   C
    TensorFlow
    Rust
    ```
