@@ -13,7 +13,7 @@ I am currently looking for an SWE internship opportunity and building up my resu
 ```
 ## 🔗 Libraries and Frameworks
 ```
-    Django/DRF/CORS
+    Django/Django-Rest
     React
     MUI
 ```
