@@ -17,6 +17,14 @@ I am currently looking for an SWE internship opportunity and building up my resu
     React
     MUI
 ```
+## 🧰 Dev Tools
+```
+    Unix
+    Git/hub
+    Docker/hub
+    
+```
+
 ☎️ Contact Information
 
     Email: andreasneacsu@gmail.com
