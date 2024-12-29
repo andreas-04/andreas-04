@@ -1,12 +1,9 @@
-# 👋 Hi! My name is Andreas Neacsu #
-
-I am an aspiring software engineer at The University of Idaho.
-
-I am currently looking for an SWE internship opportunity and building up my resume with different projects while learning as much as possible.
-
-
+# Andreas Neacsu #
+SWE Intern at Schweitzer Engineering Labratories
+Computer Science student at the University of Idaho.
 ## 🛠 Languages 
 ```
+    JavaScript
     Python
     C++/C
     JavaScript
@@ -16,13 +13,16 @@ I am currently looking for an SWE internship opportunity and building up my resu
 ```
     Django/Django-Rest
     React
-    MUI
+    Material UI
+    Cypress
+
 ```
 ## 🧰 Dev Tools
 ```
     Unix
     Git/hub
     Docker/hub
+    CI/CD pipelines
     
 ```
 
