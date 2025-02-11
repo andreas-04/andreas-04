@@ -6,7 +6,7 @@ Computer Science student at the University of Idaho.
     JavaScript
     Python
     C++/C
-    JavaScript
+    GoLang
     Swift
 ```
 ## 🔗 Libraries and Frameworks
