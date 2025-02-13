@@ -1,6 +1,6 @@
 # Andreas Neacsu #
-SWE Intern at Schweitzer Engineering Labratories
-Computer Science student at the University of Idaho.
+SWE Intern @ SEL and
+Comp Sci @ University of Idaho.
 ## 🛠 Languages 
 ```
     JavaScript
