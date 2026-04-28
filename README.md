@@ -1,2 +1,3 @@
-# Andreas Neacsu 
-### SWE @ [SEL](https://selinc.com/company/about/) - CS Senior @ University of Idaho.
+### Andreas Neacsu 
+
+SWE @ [SEL](https://selinc.com/company/about/) - CS Senior @ University of Idaho.
