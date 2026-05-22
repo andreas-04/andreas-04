@@ -1,5 +1,7 @@
-### Andreas Neacsu 
+## Andreas Neacsu
 
-SWE @ Schweitzer Engineering Laboratories - B.S.C.S Alum @ University of Idaho.
+SWE @ [Schweitzer Engineering Laboratories](https://selinc.com) · B.S. Computer Science, University of Idaho
 
-More about me [here](https://andreas-04.github.io/portfolio/)
+I love tinkering with developer tooling, backend systems, and homelab projects.
+
+[Portfolio](https://andreas-04.github.io/portfolio/)
